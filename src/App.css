@@ -34,7 +34,7 @@ h1:hover {
 .search img {
   cursor: pointer;
 }
-.search img, input:hover{
+.search img:hover{
   transform: scale(1.1);
   
 }
